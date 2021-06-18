@@ -1,0 +1,14 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/properties/169",
+    "@type": "o:Property",
+    "o:comment": "A logo representing some thing.",
+    "o:id": 169,
+    "o:label": "logo",
+    "o:local_name": "logo",
+    "o:term": "foaf:logo",
+    "o:vocabulary": {
+        "@id": "https://app.toyobunko-lab.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

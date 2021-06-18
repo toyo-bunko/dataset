@@ -1,0 +1,14 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/properties/156",
+    "@type": "o:Property",
+    "o:comment": "A thing depicted in this representation.",
+    "o:id": 156,
+    "o:label": "depicts",
+    "o:local_name": "depicts",
+    "o:term": "foaf:depicts",
+    "o:vocabulary": {
+        "@id": "https://app.toyobunko-lab.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

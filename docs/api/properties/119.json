@@ -1,0 +1,14 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/properties/119",
+    "@type": "o:Property",
+    "o:comment": "The suffix of a name",
+    "o:id": 119,
+    "o:label": "suffix name",
+    "o:local_name": "suffixName",
+    "o:term": "bibo:suffixName",
+    "o:vocabulary": {
+        "@id": "https://app.toyobunko-lab.jp/api/vocabularies/3",
+        "o:id": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/properties/77",
+    "@type": "o:Property",
+    "o:comment": "An agent that receives a communication document.",
+    "o:id": 77,
+    "o:label": "recipient",
+    "o:local_name": "recipient",
+    "o:term": "bibo:recipient",
+    "o:vocabulary": {
+        "@id": "https://app.toyobunko-lab.jp/api/vocabularies/3",
+        "o:id": 3
+    }
+}

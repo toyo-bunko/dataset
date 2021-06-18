@@ -1,0 +1,14 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/properties/83",
+    "@type": "o:Property",
+    "o:comment": "Relates a document to some transcribed original.",
+    "o:id": 83,
+    "o:label": "transcript of",
+    "o:local_name": "transcriptOf",
+    "o:term": "bibo:transcriptOf",
+    "o:vocabulary": {
+        "@id": "https://app.toyobunko-lab.jp/api/vocabularies/3",
+        "o:id": 3
+    }
+}

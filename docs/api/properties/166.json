@@ -1,0 +1,14 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/properties/166",
+    "@type": "o:Property",
+    "o:comment": "A current project this person works on.",
+    "o:id": 166,
+    "o:label": "current project",
+    "o:local_name": "currentProject",
+    "o:term": "foaf:currentProject",
+    "o:vocabulary": {
+        "@id": "https://app.toyobunko-lab.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

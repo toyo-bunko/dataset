@@ -1,0 +1,14 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/properties/163",
+    "@type": "o:Property",
+    "o:comment": "A page about a topic of interest to this person.",
+    "o:id": 163,
+    "o:label": "interest",
+    "o:local_name": "interest",
+    "o:term": "foaf:interest",
+    "o:vocabulary": {
+        "@id": "https://app.toyobunko-lab.jp/api/vocabularies/4",
+        "o:id": 4
+    }
+}

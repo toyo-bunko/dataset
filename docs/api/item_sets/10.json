@@ -1,0 +1,50 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+    "@type": "o:ItemSet",
+    "dcterms:identifier": [
+        {
+            "@value": "18K00073",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "『大正新脩大蔵経』編纂の実態に関する書誌学的研究：増上寺報恩蔵本を通して",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-16T12:41:46+00:00"
+    },
+    "o:id": 10,
+    "o:is_open": false,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "https://app.toyobunko-lab.jp/api/items?item_set_id=10"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-16T22:24:29+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "『大正新脩大蔵経』編纂の実態に関する書誌学的研究：増上寺報恩蔵本を通して",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/83d3a2f4f4ba5416356a25381c31add232a13fc4.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/83d3a2f4f4ba5416356a25381c31add232a13fc4.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/83d3a2f4f4ba5416356a25381c31add232a13fc4.jpg"
+    }
+}

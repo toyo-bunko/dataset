@@ -1,0 +1,14 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/properties/102",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 102,
+    "o:label": "issn",
+    "o:local_name": "issn",
+    "o:term": "bibo:issn",
+    "o:vocabulary": {
+        "@id": "https://app.toyobunko-lab.jp/api/vocabularies/3",
+        "o:id": 3
+    }
+}

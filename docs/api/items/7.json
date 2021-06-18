@@ -1,0 +1,64 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/7",
+    "@type": "o:Item",
+    "dcterms:identifier": [
+        {
+            "@value": "f75e3194-194f-443c-bfa4-6eb50568c5ef",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "越南",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-16T06:54:42+00:00"
+    },
+    "o:id": 7,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/4",
+            "o:id": 4
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/8",
+            "o:id": 8
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-16T07:01:36+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "越南",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/d383c35584d4d48c1de1c4ac4ae3bf89f3dff471.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/d383c35584d4d48c1de1c4ac4ae3bf89f3dff471.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/d383c35584d4d48c1de1c4ac4ae3bf89f3dff471.jpg"
+    }
+}
