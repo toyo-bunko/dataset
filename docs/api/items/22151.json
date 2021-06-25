@@ -1,0 +1,112 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22151",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1513_0001_0004",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1513",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 4",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "9ae73c0d4c9621940c16e492c87cba4a",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "受用三水要行法1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22151,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22501",
+            "o:id": 22501
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22502",
+            "o:id": 22502
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22503",
+            "o:id": 22503
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22504",
+            "o:id": 22504
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "受用三水要行法1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/d3c7d4b574045640372a4e9c2fa8c087824ff54e.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/d3c7d4b574045640372a4e9c2fa8c087824ff54e.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/d3c7d4b574045640372a4e9c2fa8c087824ff54e.jpg"
+    }
+}

@@ -1,0 +1,204 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22255",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1663-1668_0026_0052",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1667",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 26",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 52",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "f849ef1bfce7818164b2fcf9ba63b038",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "禪宗決疑集1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:29+00:00"
+    },
+    "o:id": 22255,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40366",
+            "o:id": 40366
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40367",
+            "o:id": 40367
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40368",
+            "o:id": 40368
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40369",
+            "o:id": 40369
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40370",
+            "o:id": 40370
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40371",
+            "o:id": 40371
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40372",
+            "o:id": 40372
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40373",
+            "o:id": 40373
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40374",
+            "o:id": 40374
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40375",
+            "o:id": 40375
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40376",
+            "o:id": 40376
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40377",
+            "o:id": 40377
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40378",
+            "o:id": 40378
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40379",
+            "o:id": 40379
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40380",
+            "o:id": 40380
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40381",
+            "o:id": 40381
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40382",
+            "o:id": 40382
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40383",
+            "o:id": 40383
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40384",
+            "o:id": 40384
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40385",
+            "o:id": 40385
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40386",
+            "o:id": 40386
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40387",
+            "o:id": 40387
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40388",
+            "o:id": 40388
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40389",
+            "o:id": 40389
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40390",
+            "o:id": 40390
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40391",
+            "o:id": 40391
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40392",
+            "o:id": 40392
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:29+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "禪宗決疑集1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/bcf5c157405b2d840041e1416956230243ca2584.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/bcf5c157405b2d840041e1416956230243ca2584.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/bcf5c157405b2d840041e1416956230243ca2584.jpg"
+    }
+}

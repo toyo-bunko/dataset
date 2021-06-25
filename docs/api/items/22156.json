@@ -1,0 +1,168 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22156",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1518a_0001_0018",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1518",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 18",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "1e81404364e8b94b3479a471f1f9e416",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "金光明懺法補助儀1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22156,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22718",
+            "o:id": 22718
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22719",
+            "o:id": 22719
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22720",
+            "o:id": 22720
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22721",
+            "o:id": 22721
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22722",
+            "o:id": 22722
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22723",
+            "o:id": 22723
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22724",
+            "o:id": 22724
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22725",
+            "o:id": 22725
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22726",
+            "o:id": 22726
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22727",
+            "o:id": 22727
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22728",
+            "o:id": 22728
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22729",
+            "o:id": 22729
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22730",
+            "o:id": 22730
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22731",
+            "o:id": 22731
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22732",
+            "o:id": 22732
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22733",
+            "o:id": 22733
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22734",
+            "o:id": 22734
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22735",
+            "o:id": 22735
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "金光明懺法補助儀1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/05f02d43dab48769878ec2fc140467b40674df59.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/05f02d43dab48769878ec2fc140467b40674df59.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/05f02d43dab48769878ec2fc140467b40674df59.jpg"
+    }
+}

@@ -1,0 +1,168 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22165",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1526_0001_0018",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1526",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 18",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "0c9f8485475943ff387dc521a2585417",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "熾盛光道場念誦儀1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22165,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22822",
+            "o:id": 22822
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22823",
+            "o:id": 22823
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22824",
+            "o:id": 22824
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22825",
+            "o:id": 22825
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22826",
+            "o:id": 22826
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22827",
+            "o:id": 22827
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22828",
+            "o:id": 22828
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22829",
+            "o:id": 22829
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22830",
+            "o:id": 22830
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22831",
+            "o:id": 22831
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22832",
+            "o:id": 22832
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22833",
+            "o:id": 22833
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22834",
+            "o:id": 22834
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22835",
+            "o:id": 22835
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22836",
+            "o:id": 22836
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22837",
+            "o:id": 22837
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22838",
+            "o:id": 22838
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22839",
+            "o:id": 22839
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "熾盛光道場念誦儀1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/fcc22b656faf758de89e034c5afc7f8d0fa6c7a7.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/fcc22b656faf758de89e034c5afc7f8d0fa6c7a7.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/fcc22b656faf758de89e034c5afc7f8d0fa6c7a7.jpg"
+    }
+}

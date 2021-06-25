@@ -1,0 +1,132 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22142",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja0817_0001_0009",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 817",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 9",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "50766096cd0b93e1f94dfe811e32ab68",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "聖觀自在菩薩一百八名經1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22142,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22287",
+            "o:id": 22287
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22288",
+            "o:id": 22288
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22289",
+            "o:id": 22289
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22290",
+            "o:id": 22290
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22291",
+            "o:id": 22291
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22292",
+            "o:id": 22292
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22293",
+            "o:id": 22293
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22294",
+            "o:id": 22294
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22295",
+            "o:id": 22295
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "聖觀自在菩薩一百八名經1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/f0e87e305c5c3cedd897ee98760cf53781baddc3.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/f0e87e305c5c3cedd897ee98760cf53781baddc3.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/f0e87e305c5c3cedd897ee98760cf53781baddc3.jpg"
+    }
+}

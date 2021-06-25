@@ -1,0 +1,164 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22158",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1519_0001_0017",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1519",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 17",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "0933dba2debc8af4b1e2e0e8e553291e",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "往生淨土懺願儀1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22158,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22738",
+            "o:id": 22738
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22739",
+            "o:id": 22739
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22740",
+            "o:id": 22740
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22741",
+            "o:id": 22741
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22742",
+            "o:id": 22742
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22743",
+            "o:id": 22743
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22744",
+            "o:id": 22744
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22745",
+            "o:id": 22745
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22746",
+            "o:id": 22746
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22747",
+            "o:id": 22747
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22748",
+            "o:id": 22748
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22749",
+            "o:id": 22749
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22750",
+            "o:id": 22750
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22751",
+            "o:id": 22751
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22752",
+            "o:id": 22752
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22753",
+            "o:id": 22753
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22754",
+            "o:id": 22754
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "往生淨土懺願儀1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/00612cfbca9f20f0caa632264353f8e8ec98d7fe.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/00612cfbca9f20f0caa632264353f8e8ec98d7fe.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/00612cfbca9f20f0caa632264353f8e8ec98d7fe.jpg"
+    }
+}

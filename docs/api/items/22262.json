@@ -1,0 +1,192 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22262",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1673(15-22)_0121_0144",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1673",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 121",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 144",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "4d1e1e326401993307284872e34843e5",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "古尊宿語録48卷　(卷19)",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:29+00:00"
+    },
+    "o:id": 22262,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41644",
+            "o:id": 41644
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41645",
+            "o:id": 41645
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41646",
+            "o:id": 41646
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41647",
+            "o:id": 41647
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41648",
+            "o:id": 41648
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41649",
+            "o:id": 41649
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41650",
+            "o:id": 41650
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41651",
+            "o:id": 41651
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41652",
+            "o:id": 41652
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41653",
+            "o:id": 41653
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41654",
+            "o:id": 41654
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41655",
+            "o:id": 41655
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41656",
+            "o:id": 41656
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41657",
+            "o:id": 41657
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41658",
+            "o:id": 41658
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41659",
+            "o:id": 41659
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41660",
+            "o:id": 41660
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41661",
+            "o:id": 41661
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41662",
+            "o:id": 41662
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41663",
+            "o:id": 41663
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41664",
+            "o:id": 41664
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41665",
+            "o:id": 41665
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41666",
+            "o:id": 41666
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/41667",
+            "o:id": 41667
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:29+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "古尊宿語録48卷　(卷19)",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/d3ae95f5d3bbfa9a10ed297730b6324e302417fa.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/d3ae95f5d3bbfa9a10ed297730b6324e302417fa.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/d3ae95f5d3bbfa9a10ed297730b6324e302417fa.jpg"
+    }
+}

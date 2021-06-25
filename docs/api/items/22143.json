@@ -1,0 +1,208 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22143",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1143a_0001_0028",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1143",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 28",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "4c5435310d4d5760d969904cf94e0d9b",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "出家授近圓羯磨儀範1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22143,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22296",
+            "o:id": 22296
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22297",
+            "o:id": 22297
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22298",
+            "o:id": 22298
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22299",
+            "o:id": 22299
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22300",
+            "o:id": 22300
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22301",
+            "o:id": 22301
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22302",
+            "o:id": 22302
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22303",
+            "o:id": 22303
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22304",
+            "o:id": 22304
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22305",
+            "o:id": 22305
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22306",
+            "o:id": 22306
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22307",
+            "o:id": 22307
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22308",
+            "o:id": 22308
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22309",
+            "o:id": 22309
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22310",
+            "o:id": 22310
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22311",
+            "o:id": 22311
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22312",
+            "o:id": 22312
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22313",
+            "o:id": 22313
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22314",
+            "o:id": 22314
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22315",
+            "o:id": 22315
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22316",
+            "o:id": 22316
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22317",
+            "o:id": 22317
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22318",
+            "o:id": 22318
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22319",
+            "o:id": 22319
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22320",
+            "o:id": 22320
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22321",
+            "o:id": 22321
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22322",
+            "o:id": 22322
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22323",
+            "o:id": 22323
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "出家授近圓羯磨儀範1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/2ec860d601d0433cc45022e27deee4af31a44c10.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/2ec860d601d0433cc45022e27deee4af31a44c10.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/2ec860d601d0433cc45022e27deee4af31a44c10.jpg"
+    }
+}

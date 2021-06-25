@@ -1,0 +1,68 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/917",
+    "@type": "o:Item",
+    "dcterms:identifier": [
+        {
+            "@value": "49946ae5-c6f8-4bbe-92d5-5a70c211b9ca",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "禹貢山水澤地所在",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-18T21:32:05+00:00"
+    },
+    "o:id": 917,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/4",
+            "o:id": 4
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/918",
+            "o:id": 918
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-18T21:32:05+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "禹貢山水澤地所在",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/f28e80bbc97582075776ecc6f141aa141e9ddfca.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/f28e80bbc97582075776ecc6f141aa141e9ddfca.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/f28e80bbc97582075776ecc6f141aa141e9ddfca.jpg"
+    }
+}

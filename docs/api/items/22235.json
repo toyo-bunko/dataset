@@ -1,0 +1,176 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22235",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1609-1611_0036_0055",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1610",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 36",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 55",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "9f5212b52211dff7e3b02bfe69c6f3cb",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "金師子章雲間類解1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:29+00:00"
+    },
+    "o:id": 22235,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37653",
+            "o:id": 37653
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37654",
+            "o:id": 37654
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37655",
+            "o:id": 37655
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37656",
+            "o:id": 37656
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37657",
+            "o:id": 37657
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37658",
+            "o:id": 37658
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37659",
+            "o:id": 37659
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37660",
+            "o:id": 37660
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37661",
+            "o:id": 37661
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37662",
+            "o:id": 37662
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37663",
+            "o:id": 37663
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37664",
+            "o:id": 37664
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37665",
+            "o:id": 37665
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37666",
+            "o:id": 37666
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37667",
+            "o:id": 37667
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37668",
+            "o:id": 37668
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37669",
+            "o:id": 37669
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37670",
+            "o:id": 37670
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37671",
+            "o:id": 37671
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37672",
+            "o:id": 37672
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:29+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "金師子章雲間類解1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/930cac6875bceb58a5cc04f976b23e226941f0bc.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/930cac6875bceb58a5cc04f976b23e226941f0bc.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/930cac6875bceb58a5cc04f976b23e226941f0bc.jpg"
+    }
+}

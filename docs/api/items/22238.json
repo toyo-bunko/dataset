@@ -1,0 +1,128 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22238",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1622-1623_0001_0008",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1622",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 8",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "3dafed5dc111efa58df51702e18c2bde",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "般若波羅蜜多心經註解1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:29+00:00"
+    },
+    "o:id": 22238,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37910",
+            "o:id": 37910
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37911",
+            "o:id": 37911
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37912",
+            "o:id": 37912
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37913",
+            "o:id": 37913
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37914",
+            "o:id": 37914
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37915",
+            "o:id": 37915
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37916",
+            "o:id": 37916
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37917",
+            "o:id": 37917
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:29+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "般若波羅蜜多心經註解1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/0ec44dff0c63d2d96d49bd8b9de27fc8d832e3f3.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/0ec44dff0c63d2d96d49bd8b9de27fc8d832e3f3.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/0ec44dff0c63d2d96d49bd8b9de27fc8d832e3f3.jpg"
+    }
+}

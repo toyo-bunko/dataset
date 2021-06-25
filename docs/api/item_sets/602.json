@@ -2,6 +2,15 @@
     "@context": "https://app.toyobunko-lab.jp/api-context",
     "@id": "https://app.toyobunko-lab.jp/api/item_sets/602",
     "@type": "o:ItemSet",
+    "bibo:identifier": [
+        {
+            "@value": "0004_0001",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
     "dcterms:identifier": [
         {
             "@value": "daiminchiri",
@@ -32,19 +41,22 @@
     },
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2021-06-16T22:22:22+00:00"
+        "@value": "2021-06-18T23:32:07+00:00"
     },
     "o:owner": {
         "@id": "https://app.toyobunko-lab.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": null,
-    "o:resource_template": null,
+    "o:resource_template": {
+        "@id": "https://app.toyobunko-lab.jp/api/resource_templates/2",
+        "o:id": 2
+    },
     "o:thumbnail": null,
     "o:title": "大明地理之図",
     "thumbnail_display_urls": {
-        "large": null,
-        "medium": null,
-        "square": null
+        "large": "https://app.toyobunko-lab.jp/files/large/4b40a3510b4f033a905d8eece76d52062f0a4349.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/4b40a3510b4f033a905d8eece76d52062f0a4349.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/4b40a3510b4f033a905d8eece76d52062f0a4349.jpg"
     }
 }

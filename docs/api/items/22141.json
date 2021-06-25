@@ -1,0 +1,184 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22141",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja0679_0001_0022",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 679",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 22",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "cd04078bf078dd93d935be60160a36e0",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "佛説四十二章經1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22141,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22265",
+            "o:id": 22265
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22266",
+            "o:id": 22266
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22267",
+            "o:id": 22267
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22268",
+            "o:id": 22268
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22269",
+            "o:id": 22269
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22270",
+            "o:id": 22270
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22271",
+            "o:id": 22271
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22272",
+            "o:id": 22272
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22273",
+            "o:id": 22273
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22274",
+            "o:id": 22274
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22275",
+            "o:id": 22275
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22276",
+            "o:id": 22276
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22277",
+            "o:id": 22277
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22278",
+            "o:id": 22278
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22279",
+            "o:id": 22279
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22280",
+            "o:id": 22280
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22281",
+            "o:id": 22281
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22282",
+            "o:id": 22282
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22283",
+            "o:id": 22283
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22284",
+            "o:id": 22284
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22285",
+            "o:id": 22285
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22286",
+            "o:id": 22286
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "佛説四十二章經1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/2e9eb37abe080691a4cf0aff5437ca3c814efd71.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/2e9eb37abe080691a4cf0aff5437ca3c814efd71.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/2e9eb37abe080691a4cf0aff5437ca3c814efd71.jpg"
+    }
+}

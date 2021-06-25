@@ -1,0 +1,68 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/913",
+    "@type": "o:Item",
+    "dcterms:identifier": [
+        {
+            "@value": "c47580cf-b088-4e44-81fb-116060544348",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "越南",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-18T21:31:52+00:00"
+    },
+    "o:id": 913,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/4",
+            "o:id": 4
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/914",
+            "o:id": 914
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-18T21:31:52+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "越南",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/c5ec9b46c7255aa472121e3b89b37e449a2248bc.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/c5ec9b46c7255aa472121e3b89b37e449a2248bc.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/c5ec9b46c7255aa472121e3b89b37e449a2248bc.jpg"
+    }
+}

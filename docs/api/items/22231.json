@@ -1,0 +1,264 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22231",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1606-1608_0001_0042",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1606",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 42",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "abb9a890e5c84f9ec434a6f22e433e67",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "華嚴法界玄鏡2卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:28+00:00"
+    },
+    "o:id": 22231,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37507",
+            "o:id": 37507
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37508",
+            "o:id": 37508
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37509",
+            "o:id": 37509
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37510",
+            "o:id": 37510
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37511",
+            "o:id": 37511
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37512",
+            "o:id": 37512
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37513",
+            "o:id": 37513
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37514",
+            "o:id": 37514
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37515",
+            "o:id": 37515
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37516",
+            "o:id": 37516
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37517",
+            "o:id": 37517
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37518",
+            "o:id": 37518
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37519",
+            "o:id": 37519
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37520",
+            "o:id": 37520
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37521",
+            "o:id": 37521
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37522",
+            "o:id": 37522
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37523",
+            "o:id": 37523
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37524",
+            "o:id": 37524
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37525",
+            "o:id": 37525
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37526",
+            "o:id": 37526
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37527",
+            "o:id": 37527
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37528",
+            "o:id": 37528
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37529",
+            "o:id": 37529
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37530",
+            "o:id": 37530
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37531",
+            "o:id": 37531
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37532",
+            "o:id": 37532
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37533",
+            "o:id": 37533
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37534",
+            "o:id": 37534
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37535",
+            "o:id": 37535
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37536",
+            "o:id": 37536
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37537",
+            "o:id": 37537
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37538",
+            "o:id": 37538
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37539",
+            "o:id": 37539
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37540",
+            "o:id": 37540
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37541",
+            "o:id": 37541
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37542",
+            "o:id": 37542
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37543",
+            "o:id": 37543
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37544",
+            "o:id": 37544
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37545",
+            "o:id": 37545
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37546",
+            "o:id": 37546
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37547",
+            "o:id": 37547
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37548",
+            "o:id": 37548
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:28+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "華嚴法界玄鏡2卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/d8b9705448c6b77d88229090db055a47013946bf.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/d8b9705448c6b77d88229090db055a47013946bf.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/d8b9705448c6b77d88229090db055a47013946bf.jpg"
+    }
+}

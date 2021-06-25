@@ -1,0 +1,176 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22206",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1575-1576_0108_0127",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1576",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 108",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 127",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "302cee8100039d245d245f32ba72e1c9",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "天台八教大意1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:28+00:00"
+    },
+    "o:id": 22206,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31934",
+            "o:id": 31934
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31935",
+            "o:id": 31935
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31936",
+            "o:id": 31936
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31937",
+            "o:id": 31937
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31938",
+            "o:id": 31938
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31939",
+            "o:id": 31939
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31940",
+            "o:id": 31940
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31941",
+            "o:id": 31941
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31942",
+            "o:id": 31942
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31943",
+            "o:id": 31943
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31944",
+            "o:id": 31944
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31945",
+            "o:id": 31945
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31946",
+            "o:id": 31946
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31947",
+            "o:id": 31947
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31948",
+            "o:id": 31948
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31949",
+            "o:id": 31949
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31950",
+            "o:id": 31950
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31951",
+            "o:id": 31951
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31952",
+            "o:id": 31952
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31953",
+            "o:id": 31953
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:28+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "天台八教大意1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/c6e8f877b5cb96d816cf2f9e4c0ddf71f0dc4f2a.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/c6e8f877b5cb96d816cf2f9e4c0ddf71f0dc4f2a.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/c6e8f877b5cb96d816cf2f9e4c0ddf71f0dc4f2a.jpg"
+    }
+}

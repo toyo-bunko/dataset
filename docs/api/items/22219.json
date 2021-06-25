@@ -1,0 +1,200 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22219",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1591-1595_0098_0123",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1593",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 98",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 123",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ea6384ffb0a03b4330a9c3a517cd2089",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "法智遺編觀心二百問1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:28+00:00"
+    },
+    "o:id": 22219,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33027",
+            "o:id": 33027
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33028",
+            "o:id": 33028
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33029",
+            "o:id": 33029
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33030",
+            "o:id": 33030
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33031",
+            "o:id": 33031
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33032",
+            "o:id": 33032
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33033",
+            "o:id": 33033
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33034",
+            "o:id": 33034
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33035",
+            "o:id": 33035
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33036",
+            "o:id": 33036
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33037",
+            "o:id": 33037
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33038",
+            "o:id": 33038
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33039",
+            "o:id": 33039
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33040",
+            "o:id": 33040
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33041",
+            "o:id": 33041
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33042",
+            "o:id": 33042
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33043",
+            "o:id": 33043
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33044",
+            "o:id": 33044
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33045",
+            "o:id": 33045
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33046",
+            "o:id": 33046
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33047",
+            "o:id": 33047
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33048",
+            "o:id": 33048
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33049",
+            "o:id": 33049
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33050",
+            "o:id": 33050
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33051",
+            "o:id": 33051
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33052",
+            "o:id": 33052
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:28+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "法智遺編觀心二百問1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/3a62ed5cb909c0f01170566ad11032d9fd0ae4bb.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/3a62ed5cb909c0f01170566ad11032d9fd0ae4bb.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/3a62ed5cb909c0f01170566ad11032d9fd0ae4bb.jpg"
+    }
+}

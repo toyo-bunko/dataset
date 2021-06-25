@@ -1,0 +1,132 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22167",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1528_0001_0009",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1528",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 9",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "8a1fc1fdc300d38a57da124b92893053",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "天台智者大師齋忌禮讚文1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22167,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22851",
+            "o:id": 22851
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22852",
+            "o:id": 22852
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22853",
+            "o:id": 22853
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22854",
+            "o:id": 22854
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22855",
+            "o:id": 22855
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22856",
+            "o:id": 22856
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22857",
+            "o:id": 22857
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22858",
+            "o:id": 22858
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22859",
+            "o:id": 22859
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "天台智者大師齋忌禮讚文1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/8cbed43f29234543d4a0ecb154716b8402f77cb6.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/8cbed43f29234543d4a0ecb154716b8402f77cb6.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/8cbed43f29234543d4a0ecb154716b8402f77cb6.jpg"
+    }
+}

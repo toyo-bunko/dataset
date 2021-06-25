@@ -1,0 +1,148 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22159",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1520_0001_0013",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1520",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 13",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "8a591453098758f28e828af3787ec585",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "往生淨土決疑行願二門1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22159,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22755",
+            "o:id": 22755
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22756",
+            "o:id": 22756
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22757",
+            "o:id": 22757
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22758",
+            "o:id": 22758
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22759",
+            "o:id": 22759
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22760",
+            "o:id": 22760
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22761",
+            "o:id": 22761
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22762",
+            "o:id": 22762
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22763",
+            "o:id": 22763
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22764",
+            "o:id": 22764
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22765",
+            "o:id": 22765
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22766",
+            "o:id": 22766
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22767",
+            "o:id": 22767
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "往生淨土決疑行願二門1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/d81ad80dcd57ed9eb0da925089087f943310f32d.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/d81ad80dcd57ed9eb0da925089087f943310f32d.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/d81ad80dcd57ed9eb0da925089087f943310f32d.jpg"
+    }
+}

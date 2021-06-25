@@ -2,6 +2,15 @@
     "@context": "https://app.toyobunko-lab.jp/api-context",
     "@id": "https://app.toyobunko-lab.jp/api/item_sets/598",
     "@type": "o:ItemSet",
+    "bibo:identifier": [
+        {
+            "@value": "0003",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
     "dcterms:identifier": [
         {
             "@value": "tbcas",
@@ -13,7 +22,16 @@
     ],
     "dcterms:title": [
         {
-            "@value": "tbcas",
+            "@language": "ja",
+            "@value": "現代中国研究班",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Chinese Area Studies program",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
@@ -32,19 +50,25 @@
     },
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2021-06-16T22:22:06+00:00"
+        "@value": "2021-06-21T00:09:43+00:00"
     },
     "o:owner": {
         "@id": "https://app.toyobunko-lab.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": null,
-    "o:resource_template": null,
-    "o:thumbnail": null,
-    "o:title": "tbcas",
+    "o:resource_template": {
+        "@id": "https://app.toyobunko-lab.jp/api/resource_templates/2",
+        "o:id": 2
+    },
+    "o:thumbnail": {
+        "@id": "https://app.toyobunko-lab.jp/api/assets/3",
+        "o:id": 3
+    },
+    "o:title": "現代中国研究班",
     "thumbnail_display_urls": {
-        "large": null,
-        "medium": null,
-        "square": null
+        "large": "https://app.toyobunko-lab.jp/files/asset/1fea7da525d8a2d3b7c38e9bd54aad3e31487ccb.jpeg",
+        "medium": "https://app.toyobunko-lab.jp/files/asset/1fea7da525d8a2d3b7c38e9bd54aad3e31487ccb.jpeg",
+        "square": "https://app.toyobunko-lab.jp/files/asset/1fea7da525d8a2d3b7c38e9bd54aad3e31487ccb.jpeg"
     }
 }

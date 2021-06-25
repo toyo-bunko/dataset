@@ -1,0 +1,60 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/resource_templates/2",
+    "@type": "o:ResourceTemplate",
+    "o:description_property": null,
+    "o:id": 2,
+    "o:label": "Item sets",
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template_property": [
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": true,
+            "o:property": {
+                "@id": "https://app.toyobunko-lab.jp/api/properties/1",
+                "o:id": 1
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "https://app.toyobunko-lab.jp/api/properties/4",
+                "o:id": 4
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": true,
+            "o:property": {
+                "@id": "https://app.toyobunko-lab.jp/api/properties/10",
+                "o:id": 10
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": [],
+            "o:is_private": false,
+            "o:is_required": true,
+            "o:property": {
+                "@id": "https://app.toyobunko-lab.jp/api/properties/98",
+                "o:id": 98
+            }
+        }
+    ],
+    "o:title_property": null
+}

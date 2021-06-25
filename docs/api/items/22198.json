@@ -1,0 +1,228 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22198",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1567-1568_0001_0033",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1567",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 33",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "6bf759be17ae070b6f1519694e3d6d28",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "佛説觀無量壽佛經疏1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:27+00:00"
+    },
+    "o:id": 22198,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31332",
+            "o:id": 31332
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31333",
+            "o:id": 31333
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31334",
+            "o:id": 31334
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31335",
+            "o:id": 31335
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31336",
+            "o:id": 31336
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31337",
+            "o:id": 31337
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31338",
+            "o:id": 31338
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31339",
+            "o:id": 31339
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31340",
+            "o:id": 31340
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31341",
+            "o:id": 31341
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31342",
+            "o:id": 31342
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31343",
+            "o:id": 31343
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31344",
+            "o:id": 31344
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31345",
+            "o:id": 31345
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31346",
+            "o:id": 31346
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31347",
+            "o:id": 31347
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31348",
+            "o:id": 31348
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31349",
+            "o:id": 31349
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31350",
+            "o:id": 31350
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31351",
+            "o:id": 31351
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31352",
+            "o:id": 31352
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31353",
+            "o:id": 31353
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31354",
+            "o:id": 31354
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31355",
+            "o:id": 31355
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31356",
+            "o:id": 31356
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31357",
+            "o:id": 31357
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31358",
+            "o:id": 31358
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31359",
+            "o:id": 31359
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31360",
+            "o:id": 31360
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31361",
+            "o:id": 31361
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31362",
+            "o:id": 31362
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31363",
+            "o:id": 31363
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/31364",
+            "o:id": 31364
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:27+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "佛説觀無量壽佛經疏1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/05764a91cc9f2f3b0550f8ccad0dadf3a2aef4ac.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/05764a91cc9f2f3b0550f8ccad0dadf3a2aef4ac.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/05764a91cc9f2f3b0550f8ccad0dadf3a2aef4ac.jpg"
+    }
+}

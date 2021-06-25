@@ -1,0 +1,208 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22149",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1484_0001_0028",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1484",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 28",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "4187ca1ba24f5535f48308851825a138",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "密呪圓因往生集1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22149,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22467",
+            "o:id": 22467
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22468",
+            "o:id": 22468
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22469",
+            "o:id": 22469
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22470",
+            "o:id": 22470
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22471",
+            "o:id": 22471
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22472",
+            "o:id": 22472
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22473",
+            "o:id": 22473
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22474",
+            "o:id": 22474
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22475",
+            "o:id": 22475
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22476",
+            "o:id": 22476
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22477",
+            "o:id": 22477
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22478",
+            "o:id": 22478
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22479",
+            "o:id": 22479
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22480",
+            "o:id": 22480
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22481",
+            "o:id": 22481
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22482",
+            "o:id": 22482
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22483",
+            "o:id": 22483
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22484",
+            "o:id": 22484
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22485",
+            "o:id": 22485
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22486",
+            "o:id": 22486
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22487",
+            "o:id": 22487
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22488",
+            "o:id": 22488
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22489",
+            "o:id": 22489
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22490",
+            "o:id": 22490
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22491",
+            "o:id": 22491
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22492",
+            "o:id": 22492
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22493",
+            "o:id": 22493
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22494",
+            "o:id": 22494
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "密呪圓因往生集1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/0a67add92ca7480251ed9a3bba9b8281cef03946.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/0a67add92ca7480251ed9a3bba9b8281cef03946.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/0a67add92ca7480251ed9a3bba9b8281cef03946.jpg"
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22211",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1581-1582_0001_0025",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1581",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 25",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "717fd438c119202ec1e2ea52d436d2f3",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "方等三昧行法1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:28+00:00"
+    },
+    "o:id": 22211,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32692",
+            "o:id": 32692
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32693",
+            "o:id": 32693
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32694",
+            "o:id": 32694
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32695",
+            "o:id": 32695
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32696",
+            "o:id": 32696
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32697",
+            "o:id": 32697
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32698",
+            "o:id": 32698
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32699",
+            "o:id": 32699
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32700",
+            "o:id": 32700
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32701",
+            "o:id": 32701
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32702",
+            "o:id": 32702
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32703",
+            "o:id": 32703
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32704",
+            "o:id": 32704
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32705",
+            "o:id": 32705
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32706",
+            "o:id": 32706
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32707",
+            "o:id": 32707
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32708",
+            "o:id": 32708
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32709",
+            "o:id": 32709
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32710",
+            "o:id": 32710
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32711",
+            "o:id": 32711
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32712",
+            "o:id": 32712
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32713",
+            "o:id": 32713
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32714",
+            "o:id": 32714
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32715",
+            "o:id": 32715
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32716",
+            "o:id": 32716
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:28+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "方等三昧行法1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/e17e14eb21b5c17203964b6d83a91ae6df312a40.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/e17e14eb21b5c17203964b6d83a91ae6df312a40.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/e17e14eb21b5c17203964b6d83a91ae6df312a40.jpg"
+    }
+}

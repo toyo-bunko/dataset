@@ -1,0 +1,172 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22160",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1521_0001_0019",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1521",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 19",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2eb1920af4ae57dbe3d0cc1a32f790cd",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "請觀世音菩薩消伏毒害陀羅尼三昧儀1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22160,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22768",
+            "o:id": 22768
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22769",
+            "o:id": 22769
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22770",
+            "o:id": 22770
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22771",
+            "o:id": 22771
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22772",
+            "o:id": 22772
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22773",
+            "o:id": 22773
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22774",
+            "o:id": 22774
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22775",
+            "o:id": 22775
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22776",
+            "o:id": 22776
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22777",
+            "o:id": 22777
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22778",
+            "o:id": 22778
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22779",
+            "o:id": 22779
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22780",
+            "o:id": 22780
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22781",
+            "o:id": 22781
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22782",
+            "o:id": 22782
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22783",
+            "o:id": 22783
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22784",
+            "o:id": 22784
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22785",
+            "o:id": 22785
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22786",
+            "o:id": 22786
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "請觀世音菩薩消伏毒害陀羅尼三昧儀1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/aea2be614b5601aef51f8d6da9ed00d597a07ace.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/aea2be614b5601aef51f8d6da9ed00d597a07ace.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/aea2be614b5601aef51f8d6da9ed00d597a07ace.jpg"
+    }
+}

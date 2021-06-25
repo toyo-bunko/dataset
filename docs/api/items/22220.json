@@ -1,0 +1,140 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22220",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1591-1595_0123_0133",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1594",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 123",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 133",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ea051e7ec2bd963700a9bd2b6cacb4be",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "天台傳佛心印記1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:28+00:00"
+    },
+    "o:id": 22220,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33053",
+            "o:id": 33053
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33054",
+            "o:id": 33054
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33055",
+            "o:id": 33055
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33056",
+            "o:id": 33056
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33057",
+            "o:id": 33057
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33058",
+            "o:id": 33058
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33059",
+            "o:id": 33059
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33060",
+            "o:id": 33060
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33061",
+            "o:id": 33061
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33062",
+            "o:id": 33062
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33063",
+            "o:id": 33063
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:28+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "天台傳佛心印記1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/4c28a8fbf79a594a4fa0e06a3e2ff29426b8ef2c.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/4c28a8fbf79a594a4fa0e06a3e2ff29426b8ef2c.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/4c28a8fbf79a594a4fa0e06a3e2ff29426b8ef2c.jpg"
+    }
+}

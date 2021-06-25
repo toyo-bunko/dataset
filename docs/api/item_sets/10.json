@@ -2,6 +2,15 @@
     "@context": "https://app.toyobunko-lab.jp/api-context",
     "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
     "@type": "o:ItemSet",
+    "bibo:identifier": [
+        {
+            "@value": "0001-0001",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
     "dcterms:identifier": [
         {
             "@value": "18K00073",
@@ -32,19 +41,22 @@
     },
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2021-06-16T22:24:29+00:00"
+        "@value": "2021-06-18T23:28:05+00:00"
     },
     "o:owner": {
         "@id": "https://app.toyobunko-lab.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": null,
-    "o:resource_template": null,
+    "o:resource_template": {
+        "@id": "https://app.toyobunko-lab.jp/api/resource_templates/2",
+        "o:id": 2
+    },
     "o:thumbnail": null,
     "o:title": "『大正新脩大蔵経』編纂の実態に関する書誌学的研究：増上寺報恩蔵本を通して",
     "thumbnail_display_urls": {
-        "large": "https://app.toyobunko-lab.jp/files/large/83d3a2f4f4ba5416356a25381c31add232a13fc4.jpg",
-        "medium": "https://app.toyobunko-lab.jp/files/medium/83d3a2f4f4ba5416356a25381c31add232a13fc4.jpg",
-        "square": "https://app.toyobunko-lab.jp/files/square/83d3a2f4f4ba5416356a25381c31add232a13fc4.jpg"
+        "large": "https://app.toyobunko-lab.jp/files/large/39e6ebc37f87d78615beb8a4eb3e23cef2d8dd3f.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/39e6ebc37f87d78615beb8a4eb3e23cef2d8dd3f.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/39e6ebc37f87d78615beb8a4eb3e23cef2d8dd3f.jpg"
     }
 }

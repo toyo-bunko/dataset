@@ -1,0 +1,120 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22150",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1512_0001_0006",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1512",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 6",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2e0eda2795ec1bf8e8b3d789e3768e6d",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "説罪要行法1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22150,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22495",
+            "o:id": 22495
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22496",
+            "o:id": 22496
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22497",
+            "o:id": 22497
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22498",
+            "o:id": 22498
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22499",
+            "o:id": 22499
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22500",
+            "o:id": 22500
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "説罪要行法1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/c644c7abc41f4301a58d57ecd42f930c8a4dcee1.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/c644c7abc41f4301a58d57ecd42f930c8a4dcee1.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/c644c7abc41f4301a58d57ecd42f930c8a4dcee1.jpg"
+    }
+}

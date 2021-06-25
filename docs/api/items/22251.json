@@ -1,0 +1,156 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22251",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1663-1668_0001_0015",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1663",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 15",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "1c13ac369691cffa545abf67d991a2f2",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "永明智覺禪師唯心訣1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:29+00:00"
+    },
+    "o:id": 22251,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40337",
+            "o:id": 40337
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40338",
+            "o:id": 40338
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40339",
+            "o:id": 40339
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40340",
+            "o:id": 40340
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40341",
+            "o:id": 40341
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40342",
+            "o:id": 40342
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40343",
+            "o:id": 40343
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40344",
+            "o:id": 40344
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40345",
+            "o:id": 40345
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40346",
+            "o:id": 40346
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40347",
+            "o:id": 40347
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40348",
+            "o:id": 40348
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40349",
+            "o:id": 40349
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40350",
+            "o:id": 40350
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40351",
+            "o:id": 40351
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:29+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "永明智覺禪師唯心訣1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/173ec8d264a18ad3ded931cc549e97fbe491d693.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/173ec8d264a18ad3ded931cc549e97fbe491d693.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/173ec8d264a18ad3ded931cc549e97fbe491d693.jpg"
+    }
+}

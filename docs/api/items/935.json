@@ -1,0 +1,68 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/935",
+    "@type": "o:Item",
+    "dcterms:identifier": [
+        {
+            "@value": "jouzu09_rinshi",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "臨淄城図",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-18T21:32:38+00:00"
+    },
+    "o:id": 935,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/4",
+            "o:id": 4
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/936",
+            "o:id": 936
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-18T21:32:38+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "臨淄城図",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/17fb8c03b92cd94f338cda6b0036066e8cbfd0a1.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/17fb8c03b92cd94f338cda6b0036066e8cbfd0a1.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/17fb8c03b92cd94f338cda6b0036066e8cbfd0a1.jpg"
+    }
+}

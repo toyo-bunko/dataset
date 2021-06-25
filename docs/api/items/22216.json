@@ -1,0 +1,136 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22216",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1590_0049_0058",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1590",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 49",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 58",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2e8d09dcc28bf3eb46d9a1c5c0d3ba36",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "永嘉證道歌1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:28+00:00"
+    },
+    "o:id": 22216,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32918",
+            "o:id": 32918
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32919",
+            "o:id": 32919
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32920",
+            "o:id": 32920
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32921",
+            "o:id": 32921
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32922",
+            "o:id": 32922
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32923",
+            "o:id": 32923
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32924",
+            "o:id": 32924
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32925",
+            "o:id": 32925
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32926",
+            "o:id": 32926
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/32927",
+            "o:id": 32927
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:28+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "永嘉證道歌1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/f8d8707fcbb0e028d36bd504de6d2e17693c8575.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/f8d8707fcbb0e028d36bd504de6d2e17693c8575.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/f8d8707fcbb0e028d36bd504de6d2e17693c8575.jpg"
+    }
+}

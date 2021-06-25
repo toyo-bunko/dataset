@@ -1,0 +1,200 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22154",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1516_0001_0026",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1516",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 26",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "8580fa957c6fb72890b83e649300726e",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "法華三昧懺儀1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22154,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22688",
+            "o:id": 22688
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22689",
+            "o:id": 22689
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22690",
+            "o:id": 22690
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22691",
+            "o:id": 22691
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22692",
+            "o:id": 22692
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22693",
+            "o:id": 22693
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22694",
+            "o:id": 22694
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22695",
+            "o:id": 22695
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22696",
+            "o:id": 22696
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22697",
+            "o:id": 22697
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22698",
+            "o:id": 22698
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22699",
+            "o:id": 22699
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22700",
+            "o:id": 22700
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22701",
+            "o:id": 22701
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22702",
+            "o:id": 22702
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22703",
+            "o:id": 22703
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22704",
+            "o:id": 22704
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22705",
+            "o:id": 22705
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22706",
+            "o:id": 22706
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22707",
+            "o:id": 22707
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22708",
+            "o:id": 22708
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22709",
+            "o:id": 22709
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22710",
+            "o:id": 22710
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22711",
+            "o:id": 22711
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22712",
+            "o:id": 22712
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22713",
+            "o:id": 22713
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "法華三昧懺儀1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/079280e9fdf09d53be6db1f94204fd267e995d92.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/079280e9fdf09d53be6db1f94204fd267e995d92.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/079280e9fdf09d53be6db1f94204fd267e995d92.jpg"
+    }
+}

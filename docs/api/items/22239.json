@@ -1,0 +1,220 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22239",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1622-1623_0008_0038",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1623",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 8",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 38",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "04ede552de0f4947b50592853a22842c",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "金剛般若波羅蜜經註解1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:29+00:00"
+    },
+    "o:id": 22239,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37918",
+            "o:id": 37918
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37919",
+            "o:id": 37919
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37920",
+            "o:id": 37920
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37921",
+            "o:id": 37921
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37922",
+            "o:id": 37922
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37923",
+            "o:id": 37923
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37924",
+            "o:id": 37924
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37925",
+            "o:id": 37925
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37926",
+            "o:id": 37926
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37927",
+            "o:id": 37927
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37928",
+            "o:id": 37928
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37929",
+            "o:id": 37929
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37930",
+            "o:id": 37930
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37931",
+            "o:id": 37931
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37932",
+            "o:id": 37932
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37933",
+            "o:id": 37933
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37934",
+            "o:id": 37934
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37935",
+            "o:id": 37935
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37936",
+            "o:id": 37936
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37937",
+            "o:id": 37937
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37938",
+            "o:id": 37938
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37939",
+            "o:id": 37939
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37940",
+            "o:id": 37940
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37941",
+            "o:id": 37941
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37942",
+            "o:id": 37942
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37943",
+            "o:id": 37943
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37944",
+            "o:id": 37944
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37945",
+            "o:id": 37945
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37946",
+            "o:id": 37946
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37947",
+            "o:id": 37947
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37948",
+            "o:id": 37948
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:29+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "金剛般若波羅蜜經註解1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/c738d0b5ad2416c901f0e356cc7355c026894c0d.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/c738d0b5ad2416c901f0e356cc7355c026894c0d.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/c738d0b5ad2416c901f0e356cc7355c026894c0d.jpg"
+    }
+}

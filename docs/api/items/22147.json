@@ -1,0 +1,112 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22147",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1456_0008_0011",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1456",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 8",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 11",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "eb86f883bd04ba0f797a36c3585c662e",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "大方廣佛華嚴經入法界品頓證毗盧遮那法身字輪瑜伽儀軌1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22147,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22393",
+            "o:id": 22393
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22394",
+            "o:id": 22394
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22395",
+            "o:id": 22395
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22396",
+            "o:id": 22396
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "大方廣佛華嚴經入法界品頓證毗盧遮那法身字輪瑜伽儀軌1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/910bc6b4271c61089bf2970e8d4d3b45bb5b616a.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/910bc6b4271c61089bf2970e8d4d3b45bb5b616a.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/910bc6b4271c61089bf2970e8d4d3b45bb5b616a.jpg"
+    }
+}

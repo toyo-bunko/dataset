@@ -16,17 +16,9 @@
     "o:item_pool": [],
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2021-06-16T22:24:10+00:00"
+        "@value": "2021-06-20T23:04:40+00:00"
     },
     "o:navigation": [
-        {
-            "data": {
-                "id": 1,
-                "label": ""
-            },
-            "links": [],
-            "type": "page"
-        },
         {
             "data": {
                 "label": "閲覧",
@@ -38,7 +30,7 @@
         {
             "data": {
                 "label": "",
-                "query": ""
+                "query": "sort_by=bibo:identifier"
             },
             "links": [],
             "type": "browseItemSets"
@@ -130,7 +122,7 @@
         }
     ],
     "o:slug": "main",
-    "o:summary": null,
-    "o:theme": "default",
+    "o:summary": "東洋文庫の画像公開リポジトリ（試験版）です。",
+    "o:theme": "Omeka-S-theme-UTDA",
     "o:title": "Toyo Bunko Media Repository"
 }

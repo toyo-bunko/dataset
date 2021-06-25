@@ -1,0 +1,68 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/923",
+    "@type": "o:Item",
+    "dcterms:identifier": [
+        {
+            "@value": "jouzu03_rakuyou",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "洛陽城図",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-18T21:32:17+00:00"
+    },
+    "o:id": 923,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/4",
+            "o:id": 4
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/924",
+            "o:id": 924
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-18T21:32:17+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "洛陽城図",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/114161d0b5e6a2d518a1d0653850ad4daa4de16e.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/114161d0b5e6a2d518a1d0653850ad4daa4de16e.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/114161d0b5e6a2d518a1d0653850ad4daa4de16e.jpg"
+    }
+}

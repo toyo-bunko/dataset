@@ -1,0 +1,152 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22144",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1143b_0001_0014",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1143",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 14",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "0db3f6fe6edaca236f91de30198c8b8e",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "根本説一切有部苾芻習學畧法1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22144,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22324",
+            "o:id": 22324
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22325",
+            "o:id": 22325
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22326",
+            "o:id": 22326
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22327",
+            "o:id": 22327
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22328",
+            "o:id": 22328
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22329",
+            "o:id": 22329
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22330",
+            "o:id": 22330
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22331",
+            "o:id": 22331
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22332",
+            "o:id": 22332
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22333",
+            "o:id": 22333
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22334",
+            "o:id": 22334
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22335",
+            "o:id": 22335
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22336",
+            "o:id": 22336
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22337",
+            "o:id": 22337
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "根本説一切有部苾芻習學畧法1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/c9c7d6f46c86ccb464ca3994581265d9e42b47c3.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/c9c7d6f46c86ccb464ca3994581265d9e42b47c3.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/c9c7d6f46c86ccb464ca3994581265d9e42b47c3.jpg"
+    }
+}

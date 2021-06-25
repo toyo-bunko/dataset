@@ -1,0 +1,128 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22161",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1522_0001_0008",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1522",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 8",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "d34b27a740bc86d3492162075a4c3542",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "金光明最勝懺儀1卷坿",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22161,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22787",
+            "o:id": 22787
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22788",
+            "o:id": 22788
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22789",
+            "o:id": 22789
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22790",
+            "o:id": 22790
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22791",
+            "o:id": 22791
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22792",
+            "o:id": 22792
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22793",
+            "o:id": 22793
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22794",
+            "o:id": 22794
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "金光明最勝懺儀1卷坿",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/9e4850f6796ba3415c9174f4f7147df246088c3f.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/9e4850f6796ba3415c9174f4f7147df246088c3f.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/9e4850f6796ba3415c9174f4f7147df246088c3f.jpg"
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22166",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1527_0001_0011",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1527",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 11",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "c0549c665a1bfbc2356d38cc2b199682",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "釋迦如來涅槃禮讚文1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22166,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22840",
+            "o:id": 22840
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22841",
+            "o:id": 22841
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22842",
+            "o:id": 22842
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22843",
+            "o:id": 22843
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22844",
+            "o:id": 22844
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22845",
+            "o:id": 22845
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22846",
+            "o:id": 22846
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22847",
+            "o:id": 22847
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22848",
+            "o:id": 22848
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22849",
+            "o:id": 22849
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22850",
+            "o:id": 22850
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "釋迦如來涅槃禮讚文1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/e20e4656ad8b371a5e50e81e80e70c9b02b59666.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/e20e4656ad8b371a5e50e81e80e70c9b02b59666.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/e20e4656ad8b371a5e50e81e80e70c9b02b59666.jpg"
+    }
+}

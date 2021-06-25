@@ -2,6 +2,15 @@
     "@context": "https://app.toyobunko-lab.jp/api-context",
     "@id": "https://app.toyobunko-lab.jp/api/item_sets/601",
     "@type": "o:ItemSet",
+    "bibo:identifier": [
+        {
+            "@value": "0004",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
     "dcterms:identifier": [
         {
             "@value": "inter_asia_research_network",
@@ -13,7 +22,16 @@
     ],
     "dcterms:title": [
         {
-            "@value": "inter_asia_research_network",
+            "@language": "ja",
+            "@value": "総合アジア圏域研究班",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        },
+        {
+            "@language": "en",
+            "@value": "Inter Asia Research Network Group",
             "is_public": true,
             "property_id": 1,
             "property_label": "Title",
@@ -32,16 +50,19 @@
     },
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2021-06-16T22:22:07+00:00"
+        "@value": "2021-06-21T00:05:26+00:00"
     },
     "o:owner": {
         "@id": "https://app.toyobunko-lab.jp/api/users/1",
         "o:id": 1
     },
     "o:resource_class": null,
-    "o:resource_template": null,
+    "o:resource_template": {
+        "@id": "https://app.toyobunko-lab.jp/api/resource_templates/2",
+        "o:id": 2
+    },
     "o:thumbnail": null,
-    "o:title": "inter_asia_research_network",
+    "o:title": "総合アジア圏域研究班",
     "thumbnail_display_urls": {
         "large": null,
         "medium": null,

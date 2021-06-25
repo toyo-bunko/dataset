@@ -1,0 +1,68 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/915",
+    "@type": "o:Item",
+    "dcterms:identifier": [
+        {
+            "@value": "464a4bc7-f5cd-4cd4-b79b-2d433ca0a981",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "越南グリッド版）",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-18T21:31:58+00:00"
+    },
+    "o:id": 915,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/4",
+            "o:id": 4
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/916",
+            "o:id": 916
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-18T21:31:58+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "越南グリッド版）",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/9ffb8c97633ad2071c0323c58c4256fa90d90021.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/9ffb8c97633ad2071c0323c58c4256fa90d90021.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/9ffb8c97633ad2071c0323c58c4256fa90d90021.jpg"
+    }
+}

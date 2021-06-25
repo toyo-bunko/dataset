@@ -1,0 +1,180 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22162",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1523_0001_0021",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1523",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 21",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "2ec3c268c2151b176d920ef7ecff40fc",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "千手眼大悲心呪行法1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:id": 22162,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22795",
+            "o:id": 22795
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22796",
+            "o:id": 22796
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22797",
+            "o:id": 22797
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22798",
+            "o:id": 22798
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22799",
+            "o:id": 22799
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22800",
+            "o:id": 22800
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22801",
+            "o:id": 22801
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22802",
+            "o:id": 22802
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22803",
+            "o:id": 22803
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22804",
+            "o:id": 22804
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22805",
+            "o:id": 22805
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22806",
+            "o:id": 22806
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22807",
+            "o:id": 22807
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22808",
+            "o:id": 22808
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22809",
+            "o:id": 22809
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22810",
+            "o:id": 22810
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22811",
+            "o:id": 22811
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22812",
+            "o:id": 22812
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22813",
+            "o:id": 22813
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22814",
+            "o:id": 22814
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/22815",
+            "o:id": 22815
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:26+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "千手眼大悲心呪行法1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/5314c0e6d4bc5264306675b5a85f6e7d7b79eef0.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/5314c0e6d4bc5264306675b5a85f6e7d7b79eef0.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/5314c0e6d4bc5264306675b5a85f6e7d7b79eef0.jpg"
+    }
+}

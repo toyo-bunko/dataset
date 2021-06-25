@@ -2,6 +2,15 @@
     "@context": "https://app.toyobunko-lab.jp/api-context",
     "@id": "https://app.toyobunko-lab.jp/api/item_sets/9",
     "@type": "o:ItemSet",
+    "bibo:identifier": [
+        {
+            "@value": "0001",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
     "dcterms:identifier": [
         {
             "@value": "kaken",
@@ -32,7 +41,7 @@
     },
     "o:modified": {
         "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
-        "@value": "2021-06-16T22:22:06+00:00"
+        "@value": "2021-06-21T00:03:56+00:00"
     },
     "o:owner": {
         "@id": "https://app.toyobunko-lab.jp/api/users/1",
@@ -40,11 +49,14 @@
     },
     "o:resource_class": null,
     "o:resource_template": null,
-    "o:thumbnail": null,
+    "o:thumbnail": {
+        "@id": "https://app.toyobunko-lab.jp/api/assets/2",
+        "o:id": 2
+    },
     "o:title": "科学研究費助成事業",
     "thumbnail_display_urls": {
-        "large": null,
-        "medium": null,
-        "square": null
+        "large": "https://app.toyobunko-lab.jp/files/asset/3056d9a09c8a4775f58d0267a83ae3f6d9c3c823.jpeg",
+        "medium": "https://app.toyobunko-lab.jp/files/asset/3056d9a09c8a4775f58d0267a83ae3f6d9c3c823.jpeg",
+        "square": "https://app.toyobunko-lab.jp/files/asset/3056d9a09c8a4775f58d0267a83ae3f6d9c3c823.jpeg"
     }
 }

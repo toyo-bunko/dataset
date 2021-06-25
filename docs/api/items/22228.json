@@ -1,0 +1,208 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22228",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1600-1603_0083_0110",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1603",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 83",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 110",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "c30d0dae81f1afc6fcd55cf8705cf455",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "華嚴經旨歸1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:28+00:00"
+    },
+    "o:id": 22228,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37386",
+            "o:id": 37386
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37387",
+            "o:id": 37387
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37388",
+            "o:id": 37388
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37389",
+            "o:id": 37389
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37390",
+            "o:id": 37390
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37391",
+            "o:id": 37391
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37392",
+            "o:id": 37392
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37393",
+            "o:id": 37393
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37394",
+            "o:id": 37394
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37395",
+            "o:id": 37395
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37396",
+            "o:id": 37396
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37397",
+            "o:id": 37397
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37398",
+            "o:id": 37398
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37399",
+            "o:id": 37399
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37400",
+            "o:id": 37400
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37401",
+            "o:id": 37401
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37402",
+            "o:id": 37402
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37403",
+            "o:id": 37403
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37404",
+            "o:id": 37404
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37405",
+            "o:id": 37405
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37406",
+            "o:id": 37406
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37407",
+            "o:id": 37407
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37408",
+            "o:id": 37408
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37409",
+            "o:id": 37409
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37410",
+            "o:id": 37410
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37411",
+            "o:id": 37411
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37412",
+            "o:id": 37412
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/37413",
+            "o:id": 37413
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:28+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "華嚴經旨歸1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/884144ee5c80c8b18db641eac3988a0446096937.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/884144ee5c80c8b18db641eac3988a0446096937.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/884144ee5c80c8b18db641eac3988a0446096937.jpg"
+    }
+}

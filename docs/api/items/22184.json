@@ -1,0 +1,480 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22184",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1552-1553_0001_0096",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1552",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 1",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 96",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "5ffbffdf10d3afd0a2522cea73a83721",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "大乘止觀法門4卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:27+00:00"
+    },
+    "o:id": 22184,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28927",
+            "o:id": 28927
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28928",
+            "o:id": 28928
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28929",
+            "o:id": 28929
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28930",
+            "o:id": 28930
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28931",
+            "o:id": 28931
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28932",
+            "o:id": 28932
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28933",
+            "o:id": 28933
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28934",
+            "o:id": 28934
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28935",
+            "o:id": 28935
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28936",
+            "o:id": 28936
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28937",
+            "o:id": 28937
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28938",
+            "o:id": 28938
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28939",
+            "o:id": 28939
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28940",
+            "o:id": 28940
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28941",
+            "o:id": 28941
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28942",
+            "o:id": 28942
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28943",
+            "o:id": 28943
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28944",
+            "o:id": 28944
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28945",
+            "o:id": 28945
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28946",
+            "o:id": 28946
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28947",
+            "o:id": 28947
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28948",
+            "o:id": 28948
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28949",
+            "o:id": 28949
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28950",
+            "o:id": 28950
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28951",
+            "o:id": 28951
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28952",
+            "o:id": 28952
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28953",
+            "o:id": 28953
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28954",
+            "o:id": 28954
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28955",
+            "o:id": 28955
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28956",
+            "o:id": 28956
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28957",
+            "o:id": 28957
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28958",
+            "o:id": 28958
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28959",
+            "o:id": 28959
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28960",
+            "o:id": 28960
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28961",
+            "o:id": 28961
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28962",
+            "o:id": 28962
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28963",
+            "o:id": 28963
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28964",
+            "o:id": 28964
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28965",
+            "o:id": 28965
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28966",
+            "o:id": 28966
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28967",
+            "o:id": 28967
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28968",
+            "o:id": 28968
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28969",
+            "o:id": 28969
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28970",
+            "o:id": 28970
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28971",
+            "o:id": 28971
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28972",
+            "o:id": 28972
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28973",
+            "o:id": 28973
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28974",
+            "o:id": 28974
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28975",
+            "o:id": 28975
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28976",
+            "o:id": 28976
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28977",
+            "o:id": 28977
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28978",
+            "o:id": 28978
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28979",
+            "o:id": 28979
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28980",
+            "o:id": 28980
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28981",
+            "o:id": 28981
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28982",
+            "o:id": 28982
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28983",
+            "o:id": 28983
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28984",
+            "o:id": 28984
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28985",
+            "o:id": 28985
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28986",
+            "o:id": 28986
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28987",
+            "o:id": 28987
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28988",
+            "o:id": 28988
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28989",
+            "o:id": 28989
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28990",
+            "o:id": 28990
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28991",
+            "o:id": 28991
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28992",
+            "o:id": 28992
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28993",
+            "o:id": 28993
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28994",
+            "o:id": 28994
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28995",
+            "o:id": 28995
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28996",
+            "o:id": 28996
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28997",
+            "o:id": 28997
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28998",
+            "o:id": 28998
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/28999",
+            "o:id": 28999
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29000",
+            "o:id": 29000
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29001",
+            "o:id": 29001
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29002",
+            "o:id": 29002
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29003",
+            "o:id": 29003
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29004",
+            "o:id": 29004
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29005",
+            "o:id": 29005
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29006",
+            "o:id": 29006
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29007",
+            "o:id": 29007
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29008",
+            "o:id": 29008
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29009",
+            "o:id": 29009
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29010",
+            "o:id": 29010
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29011",
+            "o:id": 29011
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29012",
+            "o:id": 29012
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29013",
+            "o:id": 29013
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29014",
+            "o:id": 29014
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29015",
+            "o:id": 29015
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29016",
+            "o:id": 29016
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29017",
+            "o:id": 29017
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29018",
+            "o:id": 29018
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29019",
+            "o:id": 29019
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29020",
+            "o:id": 29020
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29021",
+            "o:id": 29021
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29022",
+            "o:id": 29022
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:27+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "大乘止觀法門4卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/216637cc3554d1cd7b732679bd958550698ff24c.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/216637cc3554d1cd7b732679bd958550698ff24c.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/216637cc3554d1cd7b732679bd958550698ff24c.jpg"
+    }
+}

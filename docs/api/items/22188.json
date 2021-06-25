@@ -1,0 +1,180 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22188",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1555-1556_0056_0076",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1556",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 56",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 76",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "ee23196d1a02469238a3d905e55a991b",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "法華經安樂行義1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:27+00:00"
+    },
+    "o:id": 22188,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29868",
+            "o:id": 29868
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29869",
+            "o:id": 29869
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29870",
+            "o:id": 29870
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29871",
+            "o:id": 29871
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29872",
+            "o:id": 29872
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29873",
+            "o:id": 29873
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29874",
+            "o:id": 29874
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29875",
+            "o:id": 29875
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29876",
+            "o:id": 29876
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29877",
+            "o:id": 29877
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29878",
+            "o:id": 29878
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29879",
+            "o:id": 29879
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29880",
+            "o:id": 29880
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29881",
+            "o:id": 29881
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29882",
+            "o:id": 29882
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29883",
+            "o:id": 29883
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29884",
+            "o:id": 29884
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29885",
+            "o:id": 29885
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29886",
+            "o:id": 29886
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29887",
+            "o:id": 29887
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/29888",
+            "o:id": 29888
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:27+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "法華經安樂行義1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/53d645c5d851e811bdee85029229a17ef41bf1f3.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/53d645c5d851e811bdee85029229a17ef41bf1f3.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/53d645c5d851e811bdee85029229a17ef41bf1f3.jpg"
+    }
+}

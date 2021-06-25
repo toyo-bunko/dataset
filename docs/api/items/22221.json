@@ -1,0 +1,136 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22221",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1591-1595_0133_0142",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1595",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 133",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 142",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "78ae67285d6068b3f7c01045274c2f93",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "淨土境觀要門1卷坿一心三觀1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:28+00:00"
+    },
+    "o:id": 22221,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33064",
+            "o:id": 33064
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33065",
+            "o:id": 33065
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33066",
+            "o:id": 33066
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33067",
+            "o:id": 33067
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33068",
+            "o:id": 33068
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33069",
+            "o:id": 33069
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33070",
+            "o:id": 33070
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33071",
+            "o:id": 33071
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33072",
+            "o:id": 33072
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/33073",
+            "o:id": 33073
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:28+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "淨土境觀要門1卷坿一心三觀1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/011e04664b913144a612fcd52afabfc0c1473765.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/011e04664b913144a612fcd52afabfc0c1473765.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/011e04664b913144a612fcd52afabfc0c1473765.jpg"
+    }
+}

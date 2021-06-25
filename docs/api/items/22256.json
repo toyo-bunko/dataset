@@ -1,0 +1,204 @@
+{
+    "@context": "https://app.toyobunko-lab.jp/api-context",
+    "@id": "https://app.toyobunko-lab.jp/api/items/22256",
+    "@type": "o:Item",
+    "bibo:identifier": [
+        {
+            "@value": "u-renja1663-1668_0052_0078",
+            "is_public": true,
+            "property_id": 98,
+            "property_label": "identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:description": [
+        {
+            "@value": "通番: 1668",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "from image no.: 52",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        },
+        {
+            "@value": "to image no.: 78",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:identifier": [
+        {
+            "@value": "86ff53dd86251352843b514eb29b4608",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "黄檗山斷際禪師傳心法要1卷",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:29+00:00"
+    },
+    "o:id": 22256,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/item_sets/10",
+            "o:id": 10
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40393",
+            "o:id": 40393
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40394",
+            "o:id": 40394
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40395",
+            "o:id": 40395
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40396",
+            "o:id": 40396
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40397",
+            "o:id": 40397
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40398",
+            "o:id": 40398
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40399",
+            "o:id": 40399
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40400",
+            "o:id": 40400
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40401",
+            "o:id": 40401
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40402",
+            "o:id": 40402
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40403",
+            "o:id": 40403
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40404",
+            "o:id": 40404
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40405",
+            "o:id": 40405
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40406",
+            "o:id": 40406
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40407",
+            "o:id": 40407
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40408",
+            "o:id": 40408
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40409",
+            "o:id": 40409
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40410",
+            "o:id": 40410
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40411",
+            "o:id": 40411
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40412",
+            "o:id": 40412
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40413",
+            "o:id": 40413
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40414",
+            "o:id": 40414
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40415",
+            "o:id": 40415
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40416",
+            "o:id": 40416
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40417",
+            "o:id": 40417
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40418",
+            "o:id": 40418
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/media/40419",
+            "o:id": 40419
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2021-06-23T23:21:29+00:00"
+    },
+    "o:owner": {
+        "@id": "https://app.toyobunko-lab.jp/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/1",
+            "o:id": 1
+        },
+        {
+            "@id": "https://app.toyobunko-lab.jp/api/sites/2",
+            "o:id": 2
+        }
+    ],
+    "o:thumbnail": null,
+    "o:title": "黄檗山斷際禪師傳心法要1卷",
+    "thumbnail_display_urls": {
+        "large": "https://app.toyobunko-lab.jp/files/large/3d26da850912d560d2ecbeae2c13a4907884465c.jpg",
+        "medium": "https://app.toyobunko-lab.jp/files/medium/3d26da850912d560d2ecbeae2c13a4907884465c.jpg",
+        "square": "https://app.toyobunko-lab.jp/files/square/3d26da850912d560d2ecbeae2c13a4907884465c.jpg"
+    }
+}
